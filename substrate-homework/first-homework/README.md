@@ -1,4 +1,4 @@
-# Play Substrate
+# Study Substrate
 
 A few simple pallets for learning and demo the capability of Substrate blockchain framework.
 
